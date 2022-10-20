@@ -1,0 +1,9 @@
+{
+  "name": "cbv4",
+  "description": "API tests foe Clientbase v4 project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Iuliia Kochergina",
+  "license": "ISC"
+}
