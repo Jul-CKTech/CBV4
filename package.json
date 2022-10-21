@@ -2,7 +2,7 @@
   "name": "cbv4",
   "description": "API tests foe Clientbase v4 project",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx mocha --config .mocharc.js"
   },
   "author": "Iuliia Kochergina",
   "license": "ISC",
@@ -11,6 +11,8 @@
     "@babel/core": "^7.19.6",
     "@babel/plugin-transform-runtime": "^7.19.6",
     "@babel/preset-env": "^7.19.4",
-    "@babel/register": "^7.18.9"
+    "@babel/register": "^7.18.9",
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
   }
 }
