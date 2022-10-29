@@ -9,4 +9,11 @@ export default class AuthHelper {
             .send({email: email, password: password})
         return this.response
     }
+
+    async get(usersId){
+        this.response = await supertest(process.env.BASE_URL)
+            .get(`v4/user/${usersId}`)
+            .set('Authorization', `${process.env.TOKEN}`)
+        return this.response
+    }
 }
