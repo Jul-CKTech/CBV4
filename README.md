@@ -5,7 +5,7 @@ As a part of the collaboration team I would like to announce you that our small 
 I was inspired to create a new repository for our project where we can store the tests we create together.
 It will be a good practice to improve your REST API automated testing skills.
 
-All of you are already well familiar with "Clientbase" itself in its various versions.
+All of you are already well familiar with "CB_CRM_moduleX4" itself in its various versions.
 Please read the information below carefully on how to work with our project.
 I have provided some examples of REST API requests that should be used for the written test at the very beginning.
 
