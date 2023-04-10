@@ -42,4 +42,4 @@ All pull requests will be checked for conflicts and only then merged to the main
 The Main branch updates will be declared in the slack channel.
 Please be in connection with your teammates.
 
-I wish you a happy coding which is not only a happy pass... lol
+I wish you a happy coding which is not only a happy path... lol
